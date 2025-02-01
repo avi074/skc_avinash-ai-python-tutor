@@ -1,4 +1,4 @@
-# [AI Python Tutor]()
+# AI Python Tutor
 
 It's a python tutor web app powered by AI for kids to ask & learn coding questions. 
 
@@ -11,13 +11,13 @@ Before you start, ensure you have Node.js installed on your machine. If not, you
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/avi074/ai-python-tutor.git
+git clone https://github.com/avi074/skc_avinash-ai-python-tutor.git
 ```
 
 2. Navigate into the project directory:
 
 ```bash
-cd ai-python-tutor
+cd skc_avinash-ai-python-tutor
 ```
 
 3. Install dependencies:
