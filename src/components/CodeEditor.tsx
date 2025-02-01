@@ -103,7 +103,7 @@ export default function CodeEditor() {
             📤 Output:
           </Typography>
           <Box className='bg-blue-100 p-4 rounded-lg min-h-[50px] text-blue-900 font-mono'>
-            <pre>{output || "Run the code to see the output"}</pre>
+            <pre className="text-wrap">{output || "Run the code to see the output"}</pre>
           </Box>
         </Box>
 
